@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Todo Demo App"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Todo Demo"
+    }
+  ]
+}
